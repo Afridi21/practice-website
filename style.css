@@ -35,3 +35,90 @@ head{
     margin: 0%;
     margin-top: 10%;
 }
+.new{
+    background-color: pink;
+    display: flex;
+    margin: 0%;
+    border-radius: 5%;
+}
+.new-img{
+    width:50%;
+}
+.new-text{
+    font-size: 200%;
+    padding-left: 10%;
+}
+#new-class{
+    font-size: 80%;
+}
+.new-id{
+        border-radius: 5px;
+
+}
+.new-link{
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: deeppink;
+    border-radius: 5%;
+}
+.ready{
+    padding-left:45%;
+    font-size:xx-large;
+}
+.sad-text{
+    font-weight: lighter;
+    padding: 10px;
+}
+.love{
+    background-color: chartreuse;
+    border-radius: 5px;
+}
+.margin{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 40px;
+    box-shadow: 10px 10px  40px gray;
+    border-radius: 5%;
+    margin-bottom: 20%;
+
+}
+.hate{
+    width: 50%;
+}
+.loved{
+    width:50%
+}
+.die{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 40px;
+    box-shadow: 10px 10px  40px gray;
+    border-radius: 5%;
+    margin-bottom: 20%;
+    margin-bottom: 20px;
+}
+.died{
+    margin-bottom: 20px;
+}
+.dies{
+    margin-left: 20%;
+}
+.di{
+    margin-left:20%;
+}
+.loves{
+    background-color: black;
+}
+.color{
+    background-color: black;
+    
+    color: burlywood;
+}
+.classes{
+    text-align: center;
+}
+#cla{
+    text-align: center;
+}
